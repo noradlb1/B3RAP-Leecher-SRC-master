@@ -1,10 +1,4 @@
-# B3RAP-Leecher-SRC-master
-B3RAP-Leecher-SRC-master
+# B3RAP-Leecher
+The full source code of B3RAP Leecher v1.
 
-** **
-
-You have To Update The Projeckt
-
-<a href="https://ibb.co/MP4SVzF"><img src="https://i.ibb.co/XFgLsnc/B3-RAP-Leecher.png" alt="B3-RAP-Leecher" border="0"></a>
-
-** **
+This repository is NOT a support one, it's just the source code. However, if you still want to make this better (which I don't know why, but whatever) then pull requests and issues are accepted, NOT for support though.
